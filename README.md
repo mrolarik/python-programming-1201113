@@ -6,10 +6,7 @@
 
 | Week        | Content           |
 | :-------------: |-------------|
-| **1**     | [Install Python]([https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_01.ipynb](https://github.com/mrolarik/python-programming-1201113/blob/main/Week1.ipynb)) |
-
-| **1**     | [If-Else, Loop, Statements](https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_01.ipynb) |
-
+| **1**     | [Install Python](https://github.com/mrolarik/python-programming-1201113/blob/main/Week1.ipynb) |
 | **2**     | [Basic Calculation and If-Else]([https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_02.ipynb](https://github.com/mrolarik/python-programming-1201113/blob/main/Week2.ipynb))      |
 | **3** | [If-Else]([https://github.com/mrolarik/Python-Programming-1201394/blob/master/python_03.ipynb](https://github.com/mrolarik/python-programming-1201113/blob/main/Week3.ipynb))      |
 | **4**   | [If-Else (cont)]([https://github.com/mrolarik/1-2562-selected-topics/blob/master/Selected-topics-02-Search.ipynb](https://github.com/mrolarik/python-programming-1201113/blob/main/Week4.ipynb)) |
