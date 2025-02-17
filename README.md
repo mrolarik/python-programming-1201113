@@ -1,4 +1,4 @@
-# Python Programming: 1201113 (Department of Information Technology, Faculty of Informatics, Mahasarakham University)
+# Python Programming: 1201113
 
 # Python-Programming-1201394
 
